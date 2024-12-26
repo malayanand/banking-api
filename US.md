@@ -12,8 +12,3 @@ DONE
 
 TODO
 
-## Acceptance criteria
-The API should provide an option to fetch the customers by status eg.
-1. /customers?status=active should return all active customers
-2. /customers?status=inactive should return all inactive customers
-3. /customers should return all customers
